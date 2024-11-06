@@ -1,14 +1,4 @@
----
-2---
-title: "Homework 03 - Import + clean data"
-subtitle: "INFO 5001 - Fall 2023"
-author: Meedinti Gowri Namratha (gm568)
-date: 10-01-2023
-format: pdf
-editor: visual
----
 
-# Setup
 
 Load packages and data:
 
